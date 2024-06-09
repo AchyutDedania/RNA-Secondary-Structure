@@ -1,0 +1,113 @@
+(1) Mus musculus (house mouse) mmu-miR-3074-5p
+GUUCCUGCUGAACUGAGCCAGU
+12,22
+13,21
+14,20
+15,19
+
+(2) Cricetulus griseus (Chinese hamster) cgr-miR-3074
+GUUCCUGCUGAACUGAGCCAGU
+12,22
+13,21
+14,20
+15,19
+
+(3) Ornithorhynchus anatinus (platypus) oan-miR-451
+AAACCGUUACCAUUACUGAGUUU
+18,23
+
+(4) Oryctolagus cuniculus (rabbit) ocu-miR-451-5p
+AAACCGUUACCAUUACUGAGUUU
+18,23
+
+(5) HIV-1 DIS(MAL) GENOMIC RNA from None (PDB 1O3Z, chain B)
+CUUGCUGAGGUGCACACAGCAAG
+1,23
+2,22
+3,21
+4,20
+5,19
+6,18
+7,17
+
+(6) RNA (5'-R(P*AP*GP*AP*UP*CP*UP*GP*AP*GP*CP*CP*UP*GP*GP*GP*AP*GP*CP*UP*CP*UP*CP*U)... from Human immunodeficiency virus 1 (PDB 5L1Z, chain N)
+AGAUCUGAGCCUGGGAGCUCUCU
+1,23
+2,22
+3,21
+7,20
+8,19
+9,18
+10,17
+
+(7) Roseiflexus sp. RS-1 CRISPR RNA direct repeat element
+GGCGAAGCCCGCCUGUGCGGGCUA
+6,23
+7,22
+8,21
+9,20
+10,19
+11,18
+12,17
+
+(8) Pyrobaculum calidifontis JCM 11548 CRISPR RNA direct repeat element
+CUUUCAAUCCUCUUCUUGAGAUUC
+2,21
+3,20
+4,19
+5,18
+6,17
+7,16
+
+(9) Thermoproteus sp. AZ2 CRISPR RNA direct repeat element
+CUUUCAAUCCUCUUUUUGAGAUUC
+2,21
+3,20
+4,19
+5,18
+6,17
+7,16
+
+(10) Vulcanisaeta sp. AZ3 CRISPR RNA direct repeat element
+CUUUCAAUCCUCUUUUUGAGAUUC
+2,21
+3,20
+4,19
+5,18
+6,17
+7,16
+
+(11) Sus scrofa (pig) Sus_scrofa piRNA piR-ssc-772323
+CAUUGAUCGCCAGGGUUGAUUCGGCUGAUCUG
+0,31
+1,30
+4,29
+5,28
+6,27
+7,26
+8,24
+9,23
+10,22
+
+(12) Panthera tigris altaica (Tiger) sRNA (ENSPTIG00000001788.1)
+UAGCCCAUCGGGGCCUCGGAUACCUGCUGUGU
+2,10
+3,11
+4,12
+5,13
+16,23
+17,24
+18,25
+
+(13) Schistosoma mansoni Hammerhead ribozyme (type I) ribozyme sequence
+CUGCAGAGGAGUCCCACAAUAGGACGAAACGGCCGUCAAG
+0,39
+1,38
+2,37
+10,24
+11,23
+12,22
+13,21
+28,35
+29,34
+30,33
